@@ -1,0 +1,90 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+ehthumbs.db
+
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.vcxproj.user
+*.psess
+*.vsp
+*.vspx
+*.suo
+[Bb]in/
+[Oo]bj/
+out/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.ipch
+*.log
+*.cache
+*.zip
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+packages.config
+.nuget/
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs and database files
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Test/coverage
+coverage/
+*.coverage
+coverage*.json
+.nyc_output/
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.bak
+*.swp
+*~ 
+.idea/
+.idea/*
